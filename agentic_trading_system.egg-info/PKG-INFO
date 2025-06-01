@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: agentic-trading-system
+Version: 0.0.1
+Author: ahamad
+Author-email: ahamadkv17@gmail.com
+Requires-Dist: lancedb
+Requires-Dist: langchain
+Requires-Dist: langgraph
+Requires-Dist: tavily-python
+Requires-Dist: polygon
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
